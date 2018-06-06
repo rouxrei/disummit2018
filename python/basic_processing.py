@@ -2,7 +2,7 @@
 """
 Created on Wed Jun  6 08:43:32 2018
 
-@author: rouxrei
+@author: reinert [dot] roux [at] xplodata [dot] be
 """
 
 import nltk
@@ -10,7 +10,6 @@ from nltk.stem import PorterStemmer
 from collections import Counter
 import unicodedata
 
-stemmer = PorterStemmer()
 
 def remove_control_characters(s):
     return "".join(ch for ch in s if unicodedata.category(ch)[0]!="C")
@@ -92,7 +91,7 @@ input_text_mac = raw_input.decode('mac_roman')
 input_text_iso = raw_input.decode('8859')
 
 # continue with the iso decoded string
-# text = remove_control_characters(input_text_iso)
+#text = remove_control_characters(input_text_iso)
 text = input_text_iso
 
 # guess language
@@ -104,10 +103,14 @@ tokens = nltk.word_tokenize(text)
 
 # POS
 tagged_text = nltk.pos_tag(tokens)
-c = Counter([tag for (word, tag) in tagged_text])
+c = Counter([tag for (token, tag) in tagged_text])
 
 # interesting tokens
 i_tokens = [token for (token, tag) in tagged_text if tag in adj + noun + adverb + verb]
+
+# stem tokens
+stemmer = PorterStemmer()
+stemmed_tokens = [stemmer.stem(token) for token in i_tokens]
 
 # Wordcloud https://python-graph-gallery.com/wordcloud/
 import matplotlib.pyplot as plt
@@ -122,7 +125,21 @@ wordcloud = WordCloud(
                           random_state=42
                          ).generate(' '.join(i_tokens))
 
-fig = plt.figure(1)
+plt.figure(1)
 plt.imshow(wordcloud)
+plt.axis('off')
+plt.show()
+
+
+stemmed_wordcloud = WordCloud(
+                          background_color='white',
+                          stopwords=stopwords,
+                          max_words=200,
+                          max_font_size=40, 
+                          random_state=42
+                         ).generate(' '.join(stemmed_tokens))
+plt.figure(2)
+plt.imshow(stemmed_wordcloud)
+
 plt.axis('off')
 plt.show()
