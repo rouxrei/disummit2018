@@ -1,13 +1,13 @@
 import os
 import subprocess
 
-import pandas as pd
-
 cwd = os.getcwd()
 in_p = os.path.join(cwd, 'data', 'input_pdf')
 out_p = os.path.join(cwd, 'output', 'output_txt')
 img_out = os.path.join(cwd, 'output', 'output_img')
 convert_p = os.path.join(cwd, 'output', 'converted_img')
+
+# http://www.xpdfreader.com/
 
 def pdf_to_text(src_path='.', tgt_path='.', img_path='.', types=['raw', 'layout', 'simple', 'table'], delEmpty=False, verbose=True):
     # get all pdf files from 'scr_path':
@@ -28,7 +28,7 @@ def pdf_to_text(src_path='.', tgt_path='.', img_path='.', types=['raw', 'layout'
         # make txt file per type
         for typ in types:
             out_f = os.path.join(tgt_path, typ + "_" + file[:-4] + ".txt")
-            pdf_txt_command = ["pdftotext", "-"+typ, in_f, out_f]
+            pdf_txt_command = ["pdftotext", "-"+typ, "-enc utf-8", in_f, out_f]
             subprocess.call(pdf_txt_command)
         # remove empty subdirs:
         if delEmpty:
@@ -41,7 +41,3 @@ for curr, _, img_lst in os.walk(img_out):
         jpg_out = os.path.join(convert_p, img[:-4] + '.jpg')
         convert_command = ["convert.exe", os.path.join(curr, img), jpg_out]
         subprocess.check_output(convert_command, shell=True)
-
-example_file = r'.\output\output_txt\layout_Tanzania_SummarySheet_English.txt'
-
-df = pd.read_table(example_file, sep='\s+')
