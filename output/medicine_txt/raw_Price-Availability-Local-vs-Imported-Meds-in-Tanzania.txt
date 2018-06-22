@@ -1,0 +1,1278 @@
+Prices and availability of locally produced
+and imported medicines in Tanzania
+Report of a survey conducted in August 2013
+Margaret Ewen, Health Action International
+Warren Kaplan, Boston University
+Mary Justin-Temu, Muhimbili University of Health and
+Allied Sciences, Tanzania
+December 2016
+Contents
+Executive summary.......................................................................................................................................3
+Introduction ..................................................................................................................................................4
+Methodology.................................................................................................................................................6
+Results...........................................................................................................................................................8
+1. Public sector procurement prices and quantities.............................................................................8
+2. Patient prices ....................................................................................................................................9
+2.1. Public sector patient prices.......................................................................................................9
+2.2. Private sector patient prices...................................................................................................11
+2.3. Mission sector patient prices..................................................................................................13
+3. Analysis of public sector procurement prices and public sector patient prices.............................15
+4. Availability.......................................................................................................................................15
+4.1. Availability by sector...............................................................................................................15
+4.2. Availability by product type ....................................................................................................17
+5. Cross-regional analysis....................................................................................................................19
+5.1. Availability...............................................................................................................................19
+5.2. Patient prices ..........................................................................................................................21
+6. Country of manufacture..................................................................................................................22
+7. Patient prices across Tanzanian manufacturers ............................................................................24
+8. Price components ...........................................................................................................................24
+Discussion....................................................................................................................................................25
+Recommendations......................................................................................................................................26
+Annex 1 Government procurement prices...........................................................................................28
+Annex 2 Patient prices in the public sector..........................................................................................29
+Annex 3 Patient prices in the private sector ........................................................................................30
+Annex 4 Patient prices in the mission sector .......................................................................................31
+Annex 5 Paired analysis of public sector procurement prices and public sector patient prices..........32
+Annex 6 Percentage availability of medicines by sector ......................................................................33
+Annex 7 Patient prices of products manufactured by Tanzanian companies, all sectors.................... 34
+Annex 8 Mark-ups in the private sector...............................................................................................35
+2
+Executive summary
+A survey was undertaken in Tanzania in August 2013 to measure and compare the price and availability
+of locally produced and imported medicines. The survey used a draft methodology developed by Health
+Action International (HAI) and the World Health Organization (WHO). Professor Mary Justin-Temu from
+the Muhimbili University of Health and Allied Sciences was the survey manager.
+Methodology: Price and availability data was collected for 24 medicines, both locally produced and
+imported, in a total of 33 public sector health facilities, 30 private sector medicine outlets, and 30
+mission sector health facilities across six areas of the country i.e. the capital Dar es Salaam, Manyara,
+Mbeya, Mtwara, Shinyanga and Tabora. Each medicine was strength- and dosage-form specific. Data
+was collected for all products in stock in each facility on the day of the survey. Government
+procurement prices and quantities purchased were collected from the Medical Store. Wholesale
+procurement prices and selling prices were collected from a single private wholesaler in Dar es Salaam.
+Key findings:
+Government procurement prices
+· For each medicine, either locally produced products or imported products were procured, but not
+both.
+· Approximately equal numbers of locally produced products and imported products were procured
+· Overall, imported products were 94% higher priced than locally produced products. Locally
+produced products were 31% below international reference prices whereas imports were 34%
+higher in price.
+Availability and patient prices in the public sector
+· Locally produced products and imported products had poor mean availability at 21% and 32%
+respectively.
+· Across the 9 medicines where both locally produced and imported products where found (paired
+analysis), locally produced products were 7% higher in price. Across all medicines, locally produced
+products and imported products were 67% and 120% above international reference prices,
+respectively.
+· The government was charging patients 135% more than the procurement price for locally produced
+products, and 65% more for imported products.
+· Branded generics were predominant. The availability of imported branded generics was higher than
+those made in Tanzania (27% vs. 15%), and overall patient prices of imported branded generics were
+32% higher than those locally produced. Few originator brands and INN generics were found.
+Availability and patient prices in the private sector
+· Locally produced products had lower mean availability (21%) than imported products (70%).
+· Across the 12 medicines where both locally produced and imported products where found (paired
+analysis), there was little difference in price. Across all medicines, locally produced products and
+imported products were 101% and 201% above international reference prices, respectively.
+· Branded generics were predominant. Few INN generics and originator brands were found. The
+availability of imported branded generics was higher than those made locally (58% vs. 19%), and
+overall patient prices of imported branded generics were 48% higher than those locally produced.
+Availability and patient prices in the mission sector
+· Locally produced products had lower mean availability (18%) than imported products (54%).
+· Across the 10 medicines in the paired analysis, imported products where 47% higher priced than
+locally produced products.
+· Branded generics were predominant, with few INN generics and originator brands found. The
+availability of imported branded generics was higher than those made in Tanzania (45% vs. 16%),
+3
+Overall patient prices of imported branded generics were 49% higher than those locally produced.
+For INN generics, imported products were also higher priced (39% more) than local products
+Cross-regional analysis
+· In all six survey regions the availability of locally produced products was lower than the availability
+of imported products in each of the three sectors.
+· There was insufficient data to calculate patient prices for locally produced products, per sector, in
+the six survey regions so a price comparison with imported products was not possible.
+Country of manufacture
+· Across the three sectors, 91% of the products found were made in India (46.1%), Tanzania (22.6%)
+and Kenya (22.3%)
+· Products from five Tanzanian manufacturers were found in the outlets. Of these, about 60% were
+made by Shelys Pharmaceuticals Ltd.
+Recommendations:
+· Where high priced imported products were awarded tenders, the government should investigate if
+any medicines have locally produced quality-assured versions that may offer savings. If so, the local
+manufacturer should be prequalified and encouraged to submit bids. If not, local manufacturers
+should be encouraged to produce these products.
+· The government should pass on low procurement prices for locally produced medicines to patients
+in the public sector, in order to improve the affordability of medicines, especially for the poor who
+have to pay out-of-pocket.
+· The reasons for the low availability of locally produced products should be identified.
+· Health professionals and patients should be encouraged to prescribe, dispense and use lower
+priced quality-assured locally produced products rather than higher priced imported products.
+· The influence of retail mark-ups and manufacturers' selling prices on the final patient price for
+locally produced and imported products should be investigated. If retail mark-ups are high, the
+government should consider regulating them using regressive margins to incentivize the selling of
+lower priced products.
+Introduction
+Ensuring access to medicines is complex; it requires governments, through their policies, to balance the
+availability of quality assured medicines, whilst ensuring that they are affordable, and at the same time
+meeting the priority health needs of the population. An increasing number of governments in middle-
+income and low-income countries (LMIC) are supporting local production of medicines in the
+expectation that it will result in increased medicine availability and lower medicine prices.
+This report summarizes the results of a pilot survey undertaken in Tanzania to measure and compare the
+price and availability of locally produced and imported medicines. The survey used a draft methodology
+developed by Health Action International (HAI) and the World Health Organization (WHO), adapted from
+the WHO/HAI tool to measure medicine prices and availability.1
+The survey was undertaken in August 2013 by Professor Mary Justin-Temu from the Muhimbili
+University of Health and Allied Sciences. Technical support, including training, data analysis and writing
+the survey report, was provided by external consultants Margaret Ewen (HAI) and Warren Kaplan
+(Boston University). Richard Laing from Boston University reviewed the report. Harvard Pilgrim Health
+1 WHO/HAI Measuring medicine prices, availability, affordability and price components, 2008; http://haiweb.org/medicineprices/
+4
+Care Institute developed the Excel workbook for data entry and analysis. Funding for the survey was
+provided by the WHO Department for Public Health, Innovation, Intellectual Property and Trade.
+The survey was designed to answer the following questions:
+· What price does the government pay for selected medicines that are imported and locally produced
+and what quantities are procured?
+· What is the availability and patient price for selected medicines that are both locally produced and
+imported?
+· Do prices and availability for locally produced and imported medicines vary within sectors (public,
+private, others) for originator brands, branded generics and INN generics, and in different regions of
+the country?
+· How do government procurement prices for locally produced and imported medicines compare with
+patient prices in the public sector?
+· How do prices compare with international reference prices?
+Tanzanian pharmaceutical sector2
+Tanzania, which is classified as a low-income economy by the World Bank, has a population of 47.78
+million people and the estimated GNP per capita was US$ 453 in 2012. In 2009, total health expenditure
+per capita in Tanzania was US$ 23.
+The supply of medicines in Tanzania is via private wholesalers and the government's Medical Stores
+Department. Private wholesalers procure medicines from international and local manufacturers and
+distribute them to retail outlets. The Medical Stores Department procures essential medicines in bulk
+from local and international wholesalers. It in turn is the main supplier of essential medicines to the
+public sector and a primary supplier to faith-based and other non-government, non-commercial groups
+providing health services in Tanzania.
+According to a 2013 WHO mission report, 75-80% by volume of medicines are imported into Tanzania
+although the authors acknowledged difficulty verifying this figure. In 2010, there were seven licensed
+pharmaceutical manufacturers in the country. No active pharmaceutical ingredients are manufactured
+in Tanzania.
+Both overseas and local pharmaceutical companies are licensed to manufacture medicines using the
+same guidelines. Guidelines for registering human, veterinary and biological products are available in
+the TFDA web site (www.tfda.or.tz). The product registration processes takes one year, or 6 months
+when fast-tracked. The product registration certificate lasts for 5 years. Registration fees do not differ
+between originator brands and generic equivalents although such fees do differ for imported products
+(about $1250 US) and locally produced products (about $250 USD). A list of registered products is
+published on the TFDA website. A Quality Management System certified to ISO 9001:2008 has been in
+place since June 2009, as has a medicines testing laboratory that was WHO Prequalified in January 2011.
+Medicine prices are not controlled in Tanzania. When procuring medicines, the government has a local
+preference of up to 15% i.e. the government will pay up to 15% more for locally produced products
+than for imports. Public sector procurement is limited to medicines on the Essential Medicines List.
+2 Source of data: National Bureau of Statistics Annual Report. Dar es Salaam, Planning Commission, 2009; World Health Report.
+Geneva, World Health Organization, 2009;
+http://www.who.int/childmedicines/countries/LOCAL_MANUFACTURERS_report.pdf?ua=1
+5
+Mark-ups in the pharmaceutical supply chain are not regulated. Tanzania does not apply value added tax
+(VAT), goods and services tax/general sales tax (GST) nor import duties on medicines.
+Methodology
+Sectors
+Data was collected in the public sector (hospital pharmacies and health facilities), the private sector
+(private retail pharmacies and Accredited Drug Dispensing Outlets (ADDO)) and in the mission sector.
+Survey areas
+Data was collected in six areas of the country i.e. the capital Dar es Salaam, Manyara, Mbeya, Mtwara,
+Shinyanga and Tabora.
+Figure 1. Map of Tanzania showing survey areas: Dar es Salaam, Manyara, Mbeya, Mtwara, Shinyanga and Tabora
+Medicines
+Data was collected for 25 medicines (both locally produced and imported), however, a data collection
+error for one medicine meant that the analysis was based on 24 medicines. Of these, 5 were from the
+WHO/HAI global list of medicines, all with pre-set strengths and dosage forms, plus 19 selected
+medicines of national importance where international reference prices were available. Of the 24
+medicines, all but one (tetracycline 250mg caps) where included in Tanzania's Essential Medicines List.
+All medicines were off-patent. See Annex 1 for the 24 medicines in the analysis
+For each medicine, data was collected on all products (containing the same strength and in the same
+dosage form) stocked in the medicine outlet on the day of data collection. Note that different strengths
+and dosage forms of the survey medicines, and therapeutic alternatives, may be on the market (but
+were not included in the survey).
+Data collection
+As shown in Table 1, patient price and availability data was collected from a total of 33 health facilities in
+the public sector, 30 private sector medicine outlets (19 retail pharmacies and 11 ADDOs), and 30
+mission sector health facilities.
+6
+Public sector procurement prices (tender prices for 2012) were collected from the Central Medical Store
+Department.
+Wholesale procurement prices and selling prices were collected from a single private wholesaler in Dar
+es Salaam.
+The country of manufacture was identified from product labels. This information was validated, for each
+product found in the outlets, with information provided by the Tanzanian Food and Drugs Authority.
+Table 1. Measurements in each sector
+Measurement Public sector Private sector Mission sector
+Availability to patients   
+Price to patients   
+Procurement price 
+Wholesale procurement and selling prices 1 (Dar es Salaam)
+Number of medicine outlets sampled 33 30 30
+In some health facilities in the public sector and the mission sector, some medicines are provided as part
+of the consultation fee, or are free-of-charge to certain groups of patients or all patients. As it was not
+possible to identify the prices of medicines supplied as part of a fixed fee, they are not included in the
+patient price analysis. However, they were included in the availability analysis, as were medicines
+supplied free of charge, if found in the facility on the day of data collection.
+Data collection and data quality assurance
+The survey manager was trained on use of the survey tool, by the consultants, in July 2013. This training
+included piloting data collection in a public hospital and a private pharmacy.
+In August 2013 the survey manager trained all survey personnel. The data collectors in this survey had
+previously collected data using the WHO/HAI methodology so were experienced in collecting medicine
+prices.
+At the end of each day, area supervisors checked each data collection form. Data was validated by area
+supervisors in one public hospital pharmacy and two private retail pharmacies. No inconsistencies were
+found.
+Data was double-entered into an Excel spreadsheet designed for the survey, and then checked by the
+consultants.
+The registration status (marketing authorization) of each product found in the survey was checked
+against the list of registered products on the Tanzanian Food and Drugs Authority (TFDA) website
+(http://www.tfda.or.tz/). The registration status of products not listed on the website was verified with
+TFDA personnel.
+Data analysis
+Availability was based on whether the medicine was in the outlet on the day of data collection.
+For each medicine, where more than one locally produced product or imported product was found in an
+outlet, the median unit price was calculated and used in the analysis.
+Prices are expressed as median price ratios (MPR). An MPR is the ratio of the price in the local currency
+(Tanzanian Shilling) divided by an international reference price converted to Shillings. At the time of the
+survey, 1 USD = 1580.42 Tanzanian Shillings. The use of reference prices serves as an external
+benchmark for price comparisons. An MPR of 1 means the Tanzanian price is equivalent to the reference
+7
+price, whereas an MPR of 2 means the Tanzanian price is twice the reference price. The international
+reference prices used for this survey were taken from the 2012 Management Sciences for Health (MSH)
+International Drug Price Indicator Guide (http://erc.msh.org/). The MSH guide pulls together information
+from recent price lists of not-for-profit and for-profit suppliers for multisource medicines, and thus
+reflects the prices governments could be expected to pay for medicines.
+For patient prices, an MPR was only calculated for a medicine when at least 4 price points were
+recorded in each sector. Minimum MPRs and maximum MPRs represent the minimum and maximum
+values found in an outlet. For public procurement prices, an MPR was calculated when one or more
+products were procured.
+Prices were analysed in various ways, including by product type i.e. originator brands, branded generics
+and INN generics. An originator brand is the product that was first authorized world-wide for marketing
+(usually as a patented product). It always has a brand name. A branded generic is a generic equivalent
+product marketed under a brand name. An INN generic is a generic equivalent product that is marketed
+under its International Non-proprietary Name (INN) rather than a brand name.
+INCO terms were identified for all products procured by the government.
+Results
+1. Public sector procurement prices and quantities
+For the 24 survey medicines, the government was procuring a total of 9 locally produced products and
+10 imported products. Overall, government procurement prices for locally produced and imported
+medicines were 0.69 and 1.34 times international reference prices respectively, as shown in Table 2.
+For both locally produced and imported products the procurement price covered all costs to the Central
+Medical Store (delivered duty paid/DDP in INCO terms).
+Table 2. Summary of government procurement prices
+Locally produced products Imported products
+Number of medicines 9 7
+Number of products 9 10
+Median MPR 0.69 1.34
+Interquartile range 0.65 ­ 0.97 0.69 ­4.85
+Minimum MPR 0.43 0.49
+Maximum MPR 1.42 5.77
+Of the survey medicines procured, the government was buying either locally produced or imported
+medicines but not both (that is, no single medicine was procured as both locally produced products and
+imported products). The government was procuring imported artemether+lumefantrine 20mg+120mg
+tablets from two different manufacturers (Novartis and Ajanta) in different pack sizes.
+8
+Annex 1 lists the government procurement prices of individual medicines. Table 3 gives examples of
+medicines with high procurement prices compared to international reference prices. Fluconazole and
+artemether+lumefantrine tablets (both imported) were approximately 5 times international reference
+prices, respectively.
+Table 3. Examples of high procurement prices (as MPR) for locally produced and imported products
+Locally produced products MPR Imported products MPR
+Fluconazole 150mg 5.71
+Artemether+lumefantrine 20mg+120mg FDC 5.77*
+Diclofenac 50mg 4.00
+Cloxacillin 250mg 1.42
+*based on prices from two manufacturers; tab/cap unless stated
+2. Patient prices
+2.1. Public sector patient prices
+In the public sector where patients pay the full price for medicines, overall patient prices for locally
+produced products and imported products were 1.67 and 2.20 times international reference prices,
+respectively (see Table 4). Across all products (local and imported) the median MPR was 1.98. Note:
+products supplied as a fixed fee, which includes the consultation, were excluded from this analysis.
+For locally produced products, half the medicines were 1.06 ­ 2.39 times international reference prices,
+whereas for imported products, half the medicines were 1.29 ­ 3.26 times international reference
+prices.
+Table 4. Summary of public sector patient prices
+Locally produced products Imported products
+Number of medicines 12 17
+Number of products 170 308
+Median MPR 1.67 2.20
+Interquartile range 1.06 ­ 2.39 1.29 ­ 3.26
+Minimum MPR 1.00 0.57
+Maximum MPR 6.55 4.87
+For the nine medicines where both locally produced and imported products were found in the public
+sector outlets (paired analysis), overall patient prices for locally produced products were 7% higher than
+imported products. The median MPRs of locally produced and imported products were 1.44 and 1.35
+respectively, that is, 44% and 35% above international reference prices as shown in Table 5.
+Table 5. Summary of public sector patient prices, paired analysis
+Locally produced products Imported products
+Number of medicines 9 9
+Number of products 104 107
+Median of Median MPR 1.44 1.35
+Median of Interquartile range 1.00-1.83 1.29-1.75
+9
+Annex 2 lists the MPRs for individual medicines in the public sector. Locally produced products ranged
+in price from 1.00 times (i.e. the same as) the international reference price for paracetamol suspension
+to 6.55 times (555% higher than) the international reference price for sulfadoxine+pyrimethamine
+500mg+ 25mg tab. Imported products ranged from 0.57 times (43% less than) the international
+reference price for paracetamol suspension to 4.87 times (387% higher than) the international reference
+price for diclofenac 50mg tab. Figure 2 shows individual medicines with high patient prices compared to
+international reference prices and/or price differences between locally produced and imported
+products.
+Figure 2. Patient prices (as MPR), public sector, for selected individual medicines
+2.1.1. Public sector patient prices by product type
+No locally produced originator brands were found in the public sector outlets surveyed. Imported
+originator brands had a median MPR= 3.48. Overall, locally produced branded generics were 24% lower
+priced (median MPR = 1.67) compared to imported branded generics (median MPR = 2.20) as shown in
+Figure 3. For INN generics there was virtually no difference in overall patient price between locally
+produced and imported products. However, for locally produced products, INN generics were 18%
+higher priced than branded generics. The opposite was seen for imported products where INN generics
+were 10% lower priced than branded generics. Note: this aggregate data are not for a paired sample of
+medicines.
+10
+Figure 3. Summary of public sector patient prices (medMPR) by product type
+2.2. Private sector patient prices
+In the private sector, overall patient prices for locally produced products were 2.01 times international
+reference prices (see Table 6).Patient prices for imported products were 3.01 times international
+reference prices. For locally produced products, half the medicines were 1.67 ­ 3.33 times international
+reference prices, whereas for imported products half the medicines were 2.16 ­ 4.87 times international
+reference prices. Across all products, prices were 2.80 times (180% more) international reference prices.
+Table 6. Summary of private sector patient prices
+Locally produced products Imported products
+Number of medicines 12 232
+Number of products 161 713
+Median MPR 2.01 3.01
+Interquartile range (25th-
+75th percentiles)
+1.67 ­ 3.33 2.16 ­ 4.87
+Minimum MRP 1.51 1.41
+Maximum MPR 7.27 10.91
+In the paired analysis, across 12 medicines, patient prices for imported products in the private sector
+(median MPR=2.29) where similar to prices for locally produced products (median MPR=2.27) as shown
+in Table 7.
+Table 7. Summary of private sector patient prices, paired analysis
+Locally produced products Imported products
+Number of medicines 12 12
+Number of products 131 331
+Median of Median MPR 2.27 2.29
+Median of interquartile
+range (25th-75th percentiles)
+2.07 ­ 2.95 2.18-3.14
+Annex 3 lists prices (as MPRs and in Shillings) for individual medicines in the private sector. Locally
+produced products ranged from a MPR of 1.51 times (51% more than) international reference prices for
+11
+paracetamol 120mg/5ml suspension to 7.27 times (627 % more than) international reference prices for
+sulfadoxine + pyrimethamine 500mg+ 25mg cap/tab. For imported medicines, erythromycin suspension
+had the lowest price across the 22 medicines in the analysis (MPR= 1.41). Sulfadoxine + pyrimethamine
+had the highest MPR at 10.91 times (991% more than) international reference prices. Figure 4 shows
+individual medicines with high patient prices compared to international reference prices and/or price
+differences between locally produced and imported products.
+Figure 4. Patient prices (as MPR), private sector, for selected individual medicines
+2.2.1. Private sector patient prices by product type
+In the private sector, imported originator brands were 8.79 times international reference prices (50
+products) as shown in Figure 5. Overall, imported branded generics (median MPR=2.97, 567 products)
+where 48% higher priced than locally produced branded generics (median MPR=2.01, 149 products).
+Imported INN generics (median MPR=2.38, 96 products) were 20% lower priced than imported branded
+generics, but 15% higher priced than locally produced INN generics (median MPR=2.07, 12 products).
+Note: this aggregate data are not for paired samples of medicines.
+12
+Figure 5. Summary of private sector patient prices (medMPR) by product type
+2.3. Mission sector patient prices
+In the mission sector outlets, overall patient prices for locally produced products were 1.89 times
+international reference prices. Patient prices for imported products were 2.81 times international
+reference prices (see Table 8). For all products, the median MPR was 2.58.
+For locally produced products, half the medicines were 1.41 ­ 2.58 times international reference prices,
+whereas for imported products, there as a larger spread as half the medicines were 1.94 ­ 4.81 times
+international reference prices.
+Table 8. Summary of mission sector patient prices
+Locally produced products Imported products
+Number of medicines 11 20
+Number of products 137 438
+Median MPR 1.89 2.81
+Interquartile range (25th-
+75th percentile)
+1.41 ­ 2.58 1.94 ­ 4.81
+Minimum MRP 1.08 1.14
+Maximum MPR 7.27 10.91
+In the paired analysis, across 10 medicines, overall patient prices for imported products were 47%
+higher priced (medianMPR = 2.53 i.e. 153% above international reference prices) than locally produced
+products (medianMPR = 1.72 i.e. 72% above international reference prices) as shown in Table 9.
+13
+Table 9. Summary of mission sector patient prices, paired analysis
+Locally produced products Imported products
+Number of medicines 10 10
+Number of products 102 159
+Median of Median MPR 1.72 2.53
+Median of Interquartile
+range (25th-75th percentile)
+1.63 ­ 1.84 1.70 ­ 3.05
+Annex 4 lists the MPRs for individual medicines in the mission sector. Locally produced products ranged
+from a MPR of 1.08 times (8% more than) international reference prices for quinine sulphate 300mg tab
+to 7.27 times (627% more than) international reference prices for sulfadoxine+pyrimethamine 500mg+
+25mg cap/tab. For imported products, quinine sulphate again had the lowest patient price ratio (MPR =
+1.14). Sulfadoxine + pyrimethamine 500mg+ 25mg cap/tab also had the highest MPR at 10.91 times
+(991% more than) international reference prices. Figure 6 shows individual medicines with high patient
+prices compared to international reference prices and/or price differences between locally produced
+and imported products.
+Figure 6. Patient prices (as MPR), mission sector, for selected individual medicines
+2.3.1. Mission sector patient prices by product type
+In the mission sector, as shown in Figure 7, imported originator brands had a median MPR of 4.39 times
+the international reference price. No locally produced originator brands were found. Overall, for
+branded generics, imported products (medMPR = 2.81) were 49% higher priced than locally produced
+products (medMPR = 1.89). For INN generics, imports (medMPR=2.76) were also higher priced (39%)
+than those made locally (medMPR=1.98).
+14
+Figure 7. Summary of mission sector patient prices (medMPR), by product type
+3. Analysis of public sector procurement prices and public sector patient
+prices
+For 8 medicines, locally produced products procured by the government where found in the public
+sector outlets surveyed (i.e. matched pairs). For these medicines, patients were paying 135% more than
+the public procurement price. Across 7 imported medicines (matched pairs), patients were paying 65%
+more than the public procurement price (see Table 10).
+See Annex 5 for details on the paired analysis of public sector procurement prices and public sector
+patient prices.
+Table 10. Median ratio of public sector procurement prices and public sector patient prices
+Number of paired
+medicines
+Median Ratio between Public
+Sector Procurement Price MPR and
+Public Sector Patient Price MPR
+Locally produced products 8 2.35
+Imported products 7 1.65
+4. Availability
+4.1. Availability by sector
+Across the 24 survey medicines, the overall availability of locally produced products in outlets was lower
+than imported medicines in all three sectors as shown in Figure 8. In the public sector, where mean
+availability of medicines (locally produced and imported) was 52%, the availability of locally produced
+products was 21% whereas for imported products the availability was 32%. In the private sector, the
+mean availability of locally produced products was 21%; for imported products it was far higher at 70%
+(the availability of locally produced and imported products was 82%). Mean availability in the mission
+sector was 18% for locally produced products and 54% for imported products (the availability of locally
+produced and imported products was 70%).
+Note: For some medicines in some outlets, both locally produced products and imported products
+were in stock on the day of data collection. Therefore, the sum of the percentage availability of locally
+produced products (grey bar in the figures) and the percentage availability of imported products (black
+15
+bar) may not be equal to the percentage availability of both locally produced and imported products
+(striped bar).
+Figure 8. Mean % availability by sector
+Annex 6 lists the percentage availability of individual medicines in each sector. Figures 9-11 shows the
+availability of five medicines (all tab/cap) in the public, private and mission sectors. They illustrate how
+variable availability of locally produced and imported medicines can be, both within a sector and across
+sectors. For example, in the public sector, for acetyl salicyclic acid the availability of locally produced
+products was far higher (85%) than the availability of imported products (3%). For sulphamethoxazole
++trimethoprim tabs the opposite was seen in the public sector where imported products had greater
+availability. While the availability of locally produced acetyl salicyclic acid was higher than the availability
+of imports in the public sector, in the other two sectors the situation was different. In the private sector
+and mission sectors, the availability of imported acetyl salicyclic acid products was higher (57% private;
+47% mission) than imported products (30% private; 27% mission).
+Figure 9. Percentage availability, selected individual medicines, public sector
+16
+Figure 10. Percentage availability, selected individual medicines, private sector
+Figure 11. Percentage availability, selected individual medicines, mission sector
+4.2. Availability by product type
+4.2.1. Public sector
+Across the 33 public sector outlets and 24 survey medicines, the predominant product type found was
+branded generics (Figure 12). Mean availability was higher for imported branded generics (27%)
+compared to those made in Tanzania (15%), as well as imported INN generics (5%) and locally produced
+INN generics (6%). No locally produced originator brands were found in the public sector. Imported
+originator brand products had a mean availability of 4% in this sector.
+17
+Figure 12. Mean % availability, public sector, by product type
+4.2.2. Private sector
+Across the private sector outlets, branded generics were also the predominant product type at 58%
+mean availability for imported products and 19% for locally produced products (see Figure 13).
+Imported INN generics had a mean availability of 12%; very few locally produced INN generics were
+found in the private sector (2%). There were no locally produced originator brands found in the private
+sector. Imported originator brands had a mean availability of 7%.
+Figure 13. Mean % availability, private sector, by product type
+4.2.3. Mission sector
+Across the outlets surveyed in the mission sector, the predominant product type for both locally
+produced products and imported products was branded generics at 16% and 45% respectively (see
+Figure 14). Mean availability of INN generics was low at 3% and 8% for locally produced and imported
+products, respectively. The availability of originator brands products found in the mission sector outlets
+on the day of data collection was 3% (all imported).
+18
+Figure 14. Mean % availability, mission sector, by product type
+5. Cross-regional analysis
+5.1. Availability
+5.1.1 Public sector
+In the public sector of each of the six survey areas, the mean percentage availability of locally produced
+products was lower compared to the availability of imported products (see Figure 15). The mean
+availability of locally produced products ranged from 6% in Shinyanga to 29% in Dar es Salaam. The
+availability of imported products ranged from 19% in Shinyanga to 41% in Mtwara. The difference in
+availability between locally produced and imported products was smallest in Dar es Salaam and Tabora.
+The mean availability of all products found in the public sector was lowest in Shinyanga (26%) and
+highest in Manyara (65%).
+Figure 15. Mean percentage availability, public sector, by survey area
+5.1.2 Private sector
+19
+In the private sector in each of the six survey areas, the mean availability of locally produced products
+was lower compared to imported products (Figure 16). The availability of locally produced products
+ranged from 16% in Dar es Salaam to 28% in Mtwara. The availability of imported products was far
+higher ranging from 57% in Tabora to 83% in Dar es Salaam. The difference in availability between
+locally produced and imported products was greatest in Dar es Salaam and least in Tabora.
+The mean availability of both imported and locally produced products in the private sector was lowest in
+Mbeya (71%) and highest in Dar es Salaam (91%).
+Figure 16. Mean percentage availability, private sector, by survey area
+5.1.3 Mission sector
+In the mission sector heath facilities sampled in each survey area, the mean percentage availability of
+locally produced products was lower compared to the availability of imported products (Figure 17). The
+availability of locally produced products ranged from 12% in Dar es Salaam to 29% in Tabora. The
+availability of imported products ranged from 41% in Tabora to 68% in Dar es Salaam. The difference in
+availability between locally produced and imported products was greatest in Dar es Salaam and least in
+Tabora. The mean availability of all products found in the mission sector was lowest in Mbeya (63%) and
+highest in Manyara and Dar es Salaam (both 78%).
+20
+Figure 17. Mean percentage availability, mission sector, by survey area
+5.2. Patient prices
+5.2.1 Public sector
+There were insufficient price points to calculate median patient prices in the six survey areas in the
+public sector.
+5.2.2 Private sector
+There was insufficient price points (less than 4 medicines per area) to calculate a median MPR for locally
+produced products. For imported products, patient prices were lowest in Mbeya (medMPR=2.10) and
+highest in Dar es Salaam (medMPR=3.81) as shown in Figure 18.
+Figure 18.Patient prices (Median MPR), private sector, by survey area
+5.2.3 Mission sector
+21
+In the mission sector, a median MPR for locally produced products could be calculated in Tabora only
+(medMPR=1.67) which was lower than the price of imported products (medMPR=2.49). Across the six
+survey areas, patient prices for imported products ranged from a medMPR of 2.20 in Shinyanga to 4.18
+in Dar es Salaam, as shown in Figure 19.
+Figure 19. Patient prices (Median MPR), mission sector, by survey area
+6. Country of Manufacture
+Across the three sectors, 91% of the products found were made in India, Tanzania and Kenya as shown
+in Table 11. Approximately 81% of all the products found were branded generics.
+Table 11: Country of manufacture and % of products found by product type
+Originator brand Branded generic INN generic Total
+India 0.1% 41.0% 5.1% 46.1%
+Tanzania 0.0% 18.9% 3.7% 22.6%
+Kenya 0.7% 18.0% 3.6% 22.3%
+USA 2.0% 0.0% 0.0% 2.0%
+China 0.5% 0.2% 1.1% 1.8%
+Switzerland 0.8% 0.3% 0.0% 1.1%
+France 1.0% 0.0% 0.0% 1.0%
+Cyprus 0.0% 0.7% 0.2% 0.9%
+Germany 0.0% 0.6% 0.0% 0.6%
+Egypt 0.0% 0.3% 0.0% 0.3%
+South Africa 0.2% 0.1% 0.0% 0.3%
+UK 0.1% 0.1% 0.1% 0.3%
+Jordan 0.0% 0.2% 0.0% 0.2%
+Yemen 0.0% 0.1% 0.0% 0.1%
+Denmark 0.0% 0.0% 0.1% 0.1%
+22
+Greece 0.0% 0.1% 0.0% 0.1%
+Pakistan 0.0% 0.1% 0.0% 0.1%
+Uganda 0.0% 0.1% 0.0% 0.1%
+Korea 0.0% 0.1% 0.0% 0.1%
+Belgium 0.0% 0.0% 0.0%* 0.0%
+Total 5.4% 80.8% 13.9% 100%
+*One product was found to be manufactured in Belgium but because of rounding it shows as 0%
+Figure 20 gives overall patient prices by product type, across all three sectors, for the products
+manufactured in India, Tanzania and Kenya. For branded generics and INN generics, overall patient
+prices were lower for products made in Tanzania than those imported from India and Kenya. Note: this
+data is not for a paired sample of medicines and few products were found as INN generics.
+A paired analysis was possible for only five medicines (branded generics). As shown in Table 12, across
+these five medicines, patient prices of branded generics were lower for products made in Tanzania than
+for those made in India and Kenya.
+Figure 20. Patient prices (Median MPR), most frequent countries of manufacture, all sectors
+OB ­ originator brands; BG ­ branded generics; INN ­ INN generics
+Table 12. Patient prices (MPRs), branded generics, all sectors most frequent countries of manufacture
+INDIA
+MPR
+TANZANIA
+MPR
+KENYA
+MPR
+Chloramphenicol 250mg 2.33 3.33 3.00
+Doxycycline 100mg 3.14 4.39 4.39
+Fluconazole 150mg 4.69 0.59 4.69
+Paracetamol 120mg/5ml susp 1.51 1.51 1.51
+Sulh.+Trimeth 480mg tab 2.24 1.26 2.80
+Median MPR 2.33 1.51 3.00
+23
+7. Patient prices across Tanzanian manufacturers
+As stated above, 22.6% of the products found were made in Tanzania. Products manufactured by five
+local companies were found in the three sectors. The vast majority were made by Shelys
+Pharmaceuticals Ltd as shown in Table 13. Overall patient prices in Shillings and median MPRs (across
+medicines and sectors) are given although it must be remembered that this is not a paired analysis.
+Table 13. Local manufacturers and the number of products found (all sectors)
+Company Number of
+products found
+Median patient
+price in TSh
+Median MPR
+Shelys Pharmaceuticals Ltd 294 25.50 1.75
+Zenufa Laboratories (Tanzania) Ltd 80 20.00 2.27
+Keko Pharmaceutical Industries Ltd 78 68.33 1.53
+Mansoor Daya Chemicals Ltd 17 10.00 1.98
+Tanzania Pharmaceutical Industries 2 22.50 -
+total 471
+Annex 7 lists median patient prices in Shillings, and MPRs, for individual medicines manufactured by the
+companies in Tanzania. Figure 21 gives examples of median patient prices in Shillings, for one
+tablet/capsule or millilitre of liquid, made by Shelys Pharmaceuticals Ltd, Zenufa Laboratories
+(Tanzania) Ltd and Keko Pharmaceutical Industries Ltd.
+Figure 21. Median patient unit price in TSh, individual medicines, by manufacturer (all sectors)
+8. Price Components
+Measuring price components in the supply chain is important in determining the contribution of the
+manufacturer's selling price, duties, mark-ups, taxes, and other costs that make up the final patient
+price. However, it is challenging to collect this information as many agents in the supply chain may be
+unwilling to divulge prices and mark-up information. Therefore, in this survey, procurement prices and
+selling prices were collected for individual products from one wholesaler in Dar es Salaam. Although this
+24
+is only one point in the supply chain, it provides some information on wholesale mark-ups. Data was
+also collected on any taxes or duties applied to medicines.
+Duties and taxes
+VAT, GST and import duties are not applied to medicines in Tanzania.
+Wholesale and retail mark-ups, private sector
+Across the 24 survey medicines, the wholesaler had 89 products (75 imported, 14 locally produced) in
+stock on the day of data collection.
+Imported products
+A comparison of wholesale procurement prices with wholesale selling prices, for individual imported
+products, showed wholesale mark-ups of 3-27% (see Annex 8). The wholesale selling price for each
+product was then compared with the median patient price for the product across the private sector
+outlets sampled. This showed retail mark-ups, for imported products, of 3-641%. However, these retail
+mark-ups are only estimates and must be used with caution. They were not measured by tracking
+products from the retail outlet to the wholesaler where purchased which would enable the true mark-
+up to be calculated.
+Locally produced products
+A comparison of wholesale procurement prices with wholesale selling prices, for individual locally
+produced products, showed wholesale mark-ups of 10-18% (see Annex 8). Comparing the wholesale
+selling price for each product with the median patient price across the private sector outlets sampled
+showed retail mark-ups of 52-614%. However, as with imported products, these retail mark-ups are only
+estimates and must be used with caution.
+Based on the wholesale mark-up and estimated retail mark-up, the greatest contribution to the final
+patient price for both imported and locally produced products will likely vary by product. For some
+products it will likely be the manufacturer's selling price whereas for other products it will likely be the
+mark-ups in the supply chain.
+Discussion
+Across all the surveyed medicines, the Tanzanian government procured either locally produced products
+or imported products, but not both. Thus it was not possible to determine if the local preference was
+being applied. Overall the government was procuring imported products at 94% more than the price of
+the locally produced products.
+The government was selling locally produced products to patients in public sector outlets for 135% more
+than their procurement prices. For imported products, the mark-up was lower at 65%. This closed the
+price gap between imported and locally produced products in the public sector. Patients were paying 7%
+more for locally produced than for imported products, and the mean availability of locally produced
+products was lower (21%) than imports (32%). The mean availability of the survey medicines, locally
+produced and imported, in the public sector was sub-optimal at 52%.
+25
+In the private sector overall availability was higher (82%), and far more imported products (70%) were
+stocked compared to locally produced products (21%). For medicines with both imported and locally
+made products, there was little difference in the patient price in the private sector. In the mission
+sector, imported products were also more available than locally produced products (54% and 18%
+respectively) but 47% higher priced. Hence in all three sectors, the availability of locally produced
+products was poor. But when in stock, patient prices were slightly higher for local products compared to
+imported products in the public sector, almost identical in the private sector, and lower in the mission
+sector.
+In each of the six survey areas, and in each sector, the availability of locally produced products was
+lower compared to the availability of imported products. Patient prices for locally produced and
+imported products could not be compared by survey region for each sector due to insufficient data.
+About 90% of the products found were made in India, Tanzania and Kenya. Tanzania produced about
+23% of the products found. These products were made by five Tanzanian companies. Of these, the
+majority (about 60%) were made by Shelys Pharmaceuticals.
+In all three sectors, the availability of branded generics was higher than the availability of INN generics
+or originator brands. Across the sectors, 81% of the products found were branded generics. Of these
+about half where made in India and a quarter in Tanzania. Only about 14% of the products found were
+INN generics; of these slightly more where made in India compared to Tanzania and Kenya. Across the
+three sectors, overall patient prices of products from India were slightly higher prices than products
+made in Tanzania for both branded generics and INN generics.
+Measuring price components in the supply chain has proven to be challenging in medicine price surveys
+undertaken using the WHO/HAI methodology. Therefore, in this survey, procurement prices and selling
+prices were collected from a single private wholesaler in Dar es Salaam. This is only one point in the
+supply chain so has limited value. The wholesaler was found to be charging mark-ups of 3-27% for
+imported products and 10-18% for those made in Tanzania.
+While this survey measured differences between the price and availability of locally produced and
+imported products, it must be remembered that other factors can influence access to medicines (such as
+access to healthcare facilities, financing etc.). As well, it is crucial that all pharmaceutical products on the
+market are quality assured, whether imported or locally manufactured.
+Limitations in the methodology include the limited number of survey medicines (although it resulted in a
+large number of products in the analyses), and not determining true retail mark-ups.
+Recommendations
+Based on the findings from this study:
+· Where high priced imported products were awarded tenders, the government should
+investigate if any medicines have locally produced quality assured versions that may offer
+savings. If so, the local manufacturer should be prequalified and encouraged to submit bids. If
+not, local manufacturers should be encouraged to produce these products.
+· The government should pass on low procurement prices for locally produced medicines to
+patients in the public sector, in order to improve the affordability of medicines especially for the
+poor who have to pay out-of-pocket.
+26
+· The reasons for the low availability of locally produced products should be identified.
+· Health professionals and patients should be encouraged to prescribe, dispense and use lower
+priced quality-assured locally produced products rather than higher priced imported products.
+· The influence of retail mark-ups and manufacturers' selling prices on the final patient price for
+locally produced and imported products should be investigated. If retail mark-ups are high, the
+government should consider regulating them using regressive margins to incentivize the selling
+of lower priced products.
+27
+Annex 1 Government procurement prices
+Prices in Shillings are for a unit i.e. a tab or cap, mL of liquid, or a vial
+Medicine
+Locally produced products Imported products
+Products
+(n)
+Median
+unit price
+(TSh)
+Median
+price ratio
+(MPR)
+Products
+(n)
+Median
+unit price
+(TSh)
+Median
+price ratio
+(MPR)
+Acetyl salicyclic acid 300mg 1 3.33 0.66
+Albendazole 100mg/5ml suspension
+Amoxicillin 250mg 1 21.09 0.75
+Amoxicillin 500mg
+Artemeter+Lumefantrine
+20mg+120mg FDC tab
+4 109.42 5.77
+Azithromycin 250 mg
+Chloramphenicol 250 mg 1 40.31 1.34
+Ciprofloxacin 500mg
+Cloxacillin 250 mg 1 40.32 1.42
+Diclofenac 50 mg 1 41.06 4.00
+Doxycyline 100mg 1 16.43 0.72
+Erythromycin 250 mg 1 25.86 0.43
+Erythromycin 125 mg/5ml
+suspension
+1 6.98 0.49
+Fluconazole 150 mg 1 608.86 5.71
+Ibuprofen 200 mg
+Paracetamol 120 mg/5ml suspension 1 6.03 0.61
+Paracetamol 500mg 1 5.34 0.69
+Quinine sulphate 300 mg 1 60.16 0.65
+Salbutamol 4 mg 1 3.33 0.66
+Sulfadoxine+Pyrimethamine
+500mg+25mg
+1 53.26 1.16
+Sulfamethoxazole+Trimethoprim
+400mg+80mg
+Sulfamethoxazole+Trimethoprim
+200+40mg/5ml suspension
+Tetracycline 250mg
+Zinc sulphate 20 mg disp.tab 1 47.57 0.90
+MedianMPR 0.69 1.34
+tab/cap unless stated
+28
+Annex 2 Patient prices in the public sector
+An MPR and price in Shillings is given for a medicine with >3 price points.
+Prices in Shillings are for a unit i.e. a tab or cap, mL of liquid, or a vial
+Products recorded as a fixed fee or free-of-charge where excluded.
+Medicine
+Locally produced products Imported products
+Products
+(n)
+Median
+unit price
+(TSh)
+Median
+price ratio
+(MPR)
+Products
+(n)
+Median
+unit price
+(TSh)
+Median
+price ratio
+(MPR)
+Acetyl salicyclic acid 300mg 28 10.00 1.98 1
+Albendazole 100mg/5ml suspension 1 0
+Amoxicillin 250mg 1 28 50.00 1.78
+Amoxicillin 500mg 0 2
+Artemeter+Lumefantrine
+20mg+120mg FDC tab
+0 64 41.67 2.20
+Azithromycin 250 mg 3 3
+Chloramphenicol 250 mg 0 15 66.67 2.22
+Ciprofloxacin 500mg 0 10 100.00 1.67
+Cloxacillin 250 mg 6 80.00 2.81 5 66.00 2.32
+Diclofenac 50 mg 0 26 50.00 4.87
+Doxycyline 100mg 7 100.00 4.39 26 100.00 4.39
+Erythromycin 250 mg 23 100.00 1.67 4 66.33 1.11
+Erythromycin 125 mg/5ml
+suspension
+12 20.50 1.44 6 15.00 1.05
+Fluconazole 150 mg 3 27 100.00 0.94
+Ibuprofen 200 mg 0 10 33.33 3.57
+Paracetamol 120 mg/5ml suspension 12 10.00 1.00 7 5.70 0.57
+Paracetamol 500mg 17 13.89 1.79 13 15.00 1.94
+Quinine sulphate 300 mg 14 100.00 1.08 8 125.00 1.35
+Salbutamol 4 mg 0 13 13.33 2.64
+Sulfadoxine+Pyrimethamine
+500mg+25mg
+12 300.00 6.55 2
+Sulfamethoxazole+Trimethoprim
+400mg+80mg
+4 20.00 1.12 23 45.00 2.52
+Sulfamethoxazole+Trimethoprim
+200+40mg/5ml suspension
+9 10.00 1.29 15 10.00 1.29
+Tetracycline 250mg 0 0
+Zinc sulphate 20 mg disp.tab 18 100.00 1.89 0
+Median MPR 1.67 2.20
+tab/cap unless stated
+29
+Annex 3 Patient prices in the private sector
+An MPR and price in Shillings is given for a medicine with >3 price points.
+Prices in Shillings are for a unit i.e. a tab or cap, mL of liquid, or a vial
+Medicine
+Locally produced products Imported products
+Products
+(n)
+Median
+unit price
+(TSh)
+Median
+price ratio
+(MPR)
+Products
+(n)
+Median
+unit price
+(TSh)
+Median
+price ratio
+(MPR)
+Acetyl salicyclic acid 300mg 9 10.00 1.98 17 11.11 2.20
+Albendazole 100mg/5ml suspension 0 14 250.00 3.48
+Amoxicillin 250mg 6 50.00 1.78 35 50.00 1.78
+Amoxicillin 500mg 0 3
+Artemeter+Lumefantrine
+20mg+120mg FDC tab
+0 76 83.33 4.39
+Azithromycin 250 mg 13 750.00 2.65 10 833.33 2.91
+Chloramphenicol 250 mg 5 100.00 3.33 24 81.50 2.71
+Ciprofloxacin 500mg 0 48 200.00 3.35
+Cloxacillin 250 mg 0 28 80.00 2.81
+Diclofenac 50 mg 2 42 50.00 4.87
+Doxycyline 100mg 4 100.00 4.39 24 100.00 4.39
+Erythromycin 250 mg 9 100.00 1.67 28 100.00 1.67
+Erythromycin 125 mg/5ml
+suspension
+8 22.50 1.58 27 20.00 1.41
+Fluconazole 150 mg 0 31 600.00 5.62
+Ibuprofen 200 mg 1 36 33.00 3.54
+Paracetamol 120 mg/5ml suspension 33 15.00 1.51 35 15.00 1.51
+Paracetamol 500mg 11 20.00 2.58 51 20.00 2.58
+Quinine sulphate 300 mg 4 200.00 2.16 24 200.00 2.16
+Salbutamol 4 mg 0 35 20.00 3.95
+Sulfadoxine+Pyrimethamine
+500mg+25mg
+22 333.33 7.27 36 500.00 10.91
+Sulfamethoxazole+Trimethoprim
+400mg+80mg
+1 29 50.00 2.80
+Sulfamethoxazole+Trimethoprim
+200+40mg/5ml suspension
+2 40 15.00 1.94
+Tetracycline 250mg 7 50.00 2.38 20 50.00 2.38
+Zinc sulphate 20 mg disp.tab 24 100.00 1.89 0
+Median MPR 2.01 3.01
+tab/cap unless stated
+30
+Annex 4 Patient prices in the mission sector
+An MPR and price in Shillings is given for a medicine with >3 price points.
+Prices in Shillings are for a unit i.e. a tab or cap, mL of liquid, or a vial
+Products recorded as a fixed fee or free-of-charge where excluded.
+Medicine
+Locally produced products Imported products
+Products
+(n)
+Median
+unit price
+(TSh)
+Median
+price ratio
+(MPR)
+Products
+(n)
+Median
+unit price
+(TSh)
+Median
+price ratio
+(MPR)
+Acetyl salicyclic acid 300mg 8 10.00 1.98 14 16.67 3.30
+Albendazole 100mg/5ml suspension 0 3
+Amoxicillin 250mg 2 28 70.00 2.49
+Amoxicillin 500mg 0 2
+Artemeter+Lumefantrine
+20mg+120mg FDC tab 0 52 83.33 4.39
+Azithromycin 250 mg 6 566.67 2.00 6 700.00 2.47
+Chloramphenicol 250 mg 2 23 80.00 2.66
+Ciprofloxacin 500mg 0 31 200.00 3.35
+Cloxacillin 250 mg 4 50.00 1.76 19 100.00 3.52
+Diclofenac 50 mg 1 25 50.00 4.87
+Doxycyline 100mg 3 25 100.00 4.39
+Erythromycin 250 mg 20 100.00 1.67 12 75.00 1.26
+Erythromycin 125 mg/5ml
+suspension 9 20.00 1.41 19 25.00 1.76
+Fluconazole 150 mg 2 19 500.00 4.69
+Ibuprofen 200 mg 0 16 50.00 5.36
+Paracetamol 120 mg/5ml suspension 18 15.00 1.51 11 15.00 1.51
+Paracetamol 500mg 13 20.00 2.58 22 22.50 2.91
+Quinine sulphate 300 mg 12 100.00 1.08 16 105.56 1.14
+Salbutamol 4 mg 0 27 56.00 5.93
+Sulfadoxine+Pyrimethamine
+500mg+25mg 8 333.33 7.27 9 500.00 10.91
+Sulfamethoxazole+Trimethoprim
+400mg+80mg 1 27 40.00 2.24
+Sulfamethoxazole+Trimethoprim
+200+40mg/5ml suspension 4 12.00 1.55 31 20.00 2.58
+Tetracycline 250mg 0 1
+Zinc sulphate 20 mg disp.tab 24 100.00 1.89
+Median MPR 1.89 2.81
+tab/cap unless stated
+31
+Annex 5 Paired analysis of public sector procurement prices and public
+sector patient prices
+Medicine
+Ratio between public sector patient price MPR and
+public sector procurement price MPR
+Locally produced products Imported products
+Acetyl salicyclic acid 300mg 3.00
+Albendazole 100mg/5ml suspension
+Amoxicillin 250mg
+Amoxicillin 500mg
+Artemeter+Lumefantrine
+20mg+120mg FDC tab
+0.38
+Azithromycin 250 mg
+Chloramphenicol 250 mg 1.65
+Ciprofloxacin 500mg
+Cloxacillin 250 mg 1.98
+Diclofenac 50 mg 1.22
+Doxycyline 100mg 6.09
+Erythromycin 250 mg 3.87
+Erythromycin 125 mg/5ml susp 2.15
+Fluconazole 150 mg 0.16
+Ibuprofen 200 mg
+Paracetamol 120 mg/5ml susp 1.66
+Paracetamol 500mg 2.60
+Quinine sulphate 300 mg 1.66
+Salbutamol 4 mg 4.00
+Sulfadoxine+Pyrimethamine
+500mg+25mg
+5.63
+Sulfamethoxazole+Trimethoprim
+400mg+80mg
+Sulfamethoxazole+Trimethoprim
+200+40mg/5ml suspension
+Tetracycline 250mg
+Zinc sulphate 20 mg disp.tab 2.10
+Median 2.35 1.65
+Number of pairs 8 7
+32
+Annex 6 Percentage availability of medicines by sector
+PUBLIC SECTOR PRIVATE SECTOR MISSION SECTOR
+Local &
+import
+Local Import Local &
+import
+Local Import Local &
+import
+Local Import
+Acetyl salicyclic acid
+300mg
+88% 85% 3% 87% 30% 57% 70% 27% 47%
+Albendazole
+100mg/5ml susp
+30% 3% 0% 47% 0% 47% 10% 0% 10%
+Amoxicillin 250mg 85% 3% 82% 100% 20% 87% 97% 7% 90%
+Amoxicillin 500mg 6% 0% 6% 10% 0% 10% 7% 0% 7%
+Artemeter+Lumefant
+rine 20mg+120mg
+FDC tab
+91% 0% 91% 97% 0% 97% 93% 0% 93%
+Azithromycin 250 mg 18% 9% 9% 53% 43% 23% 37% 20% 20%
+Chloramphenicol
+250 mg
+42% 0% 42% 83% 17% 67% 73% 7% 70%
+Ciprofloxacin 500mg 24% 0% 24% 90% 0% 90% 77% 0% 77%
+Cloxacillin 250 mg 33% 18% 15% 80% 0% 80% 73% 13% 63%
+Diclofenac 50 mg 70% 0% 70% 100% 7% 97% 80% 3% 77%
+Doxycyline 100mg 85% 21% 79% 87% 13% 73% 90% 10% 80%
+Erythromycin 250mg 76% 64% 12% 93% 30% 73% 97% 63% 40%
+Erythromycin 125
+mg/5ml susp
+55% 36% 18% 90% 27% 73% 87% 30% 57%
+Fluconazole 150 mg 70% 9% 64% 77% 0% 77% 70% 7% 63%
+Ibuprofen 200 mg 30% 0% 30% 93% 3% 90% 53% 0% 53%
+Paracetamol
+120mg/5ml susp
+48% 36% 21% 97% 80% 77% 90% 57% 37%
+Paracetamol 500mg 85% 52% 33% 93% 37% 87% 93% 40% 67%
+Quinine sulphate
+300 mg
+64% 42% 24% 80% 13% 70% 87% 37% 50%
+Salbutamol 4 mg 39% 0% 39% 93% 0% 93% 90% 0% 90%
+Sulfadoxine+
+Pyrimethamine
+500mg+25mg
+42% 36% 6% 100% 73% 90% 47% 27% 27%
+Sulfamethoxazole+
+Trimethoprim
+400mg+80mg tab
+70% 12% 61% 77% 3% 73% 83% 3% 83%
+Sulfamethoxazole+
+Trimethoprim
+200+40mg/5ml susp
+70% 27% 42% 93% 7% 87% 100% 13% 87%
+Tetracycline 250mg 0% 0% 0% 73% 23% 57% 3% 0% 3%
+Zinc sulphate 20 mg
+disp.tab
+55% 55% 0% 80% 80% 0% 80% 80% 0%
+Mean % Availability 52% 21% 32% 82% 21% 70% 70% 18% 54%
+Local = locally produced products, Import = imported products, tab/cap unless stated
+33
+Shelys Zenufa Keko Mansoor Daya TPI
+No.
+prod.
+Median
+unit
+price
+TSh
+MPR No.
+prod.
+Median
+unit
+price
+TSh
+MPR No.
+prod.
+Median
+unit
+price
+TSh
+MPR No.
+prod.
+Median
+unit
+price
+TSh
+MPR No.
+prod.
+Median
+unit
+price
+TSh
+MPR
+Acetyl salicyclic acid 300mg 32 10.00 1.98 13 10.00 1.98
+Albendazole 100mg/5ml susp 1 300.00
+Amoxicillin 250mg 2 30.00 1 66.00 6 55.00 1.96
+Amoxicillin 500mg
+Artemeter+Lumefantrine
+20mg+120mg FDC tab
+Azithromycin 250 mg 22 666.67 2.35
+Chloramphenicol 250 mg 2 125.00 5 100.00 3.33
+Ciprofloxacin 500mg
+Cloxacillin 250 mg 10 58.33 2.05
+Diclofenac 50 mg 3 50.00
+Doxycyline 100mg 1 100.00 12 100.00 4.39 1 142.86
+Erythromycin 250mg 19 100.00 1.67 2 83.00 32 91.67 1.53
+Erythromycin 125 mg/5ml susp 17 10.00 0.70 12 20.00 1.41
+Fluconazole 150 mg 6 62.50 0.59
+Ibuprofen 200 mg 1 50.00
+Paracetamol 120mg/5ml susp 40 15.00 1.51 20 15.00 1.51 2 5.00 1 20.00
+Paracetamol 500mg 27 15.00 1.94 10 20.00 2.58 1 11.11 2 35.00 1 25.00
+Quinine sulphate 300 mg 7 100.00 1.08 5 200.00 2.16 18 100.00 1.08
+Salbutamol 4 mg
+Sulfadoxine+Pyrimethamine
+500mg+25mg
+34 333.33 7.27 9
+Sulf+Trim.400mg+80mg tab 4 32.50 1.82 1 25.00 1
+Sulf+Trim 200+40mg/5ml susp 11 4 14.50 1.87
+Tetracycline 250mg 3 66.67 4 50.00 2.38
+Zinc sulphate 20 mg disp.tab 66 100.00 1.89
+All products found 294 25.50 1.75 80 20.00 2.27 78 68.33 1.53 17 10.00 1.98 2
+An MPR is given for medicines with >3 price points. Prices in TSh are for a unit i.e. tablet, capsule, millilitre of liquid etc.
+Shelys ­ Shelys Pharmaceuticals Ltd; Zenufa ­ Zenufa Laboratories (Tanzania Ltd); Keko - Keko Pharmaceutical Industries Ltd; Mansoor Daya ­ Mansoor Daya
+Chemicals Ltd; TPI ­ Tanzanian Pharmaceutical Industries
+Annex 7 Patient prices of products manufactured by Tanzanian companies, all sectors
+Annex 8 Mark-ups in the private sector
+I. IMPORTED PRODUCTS
+Medicine Product type Wholesale
+procurement
+price (unit)
+Wholesale
+selling price
+(unit)
+Median
+retail price
+(unit)
+Wholesale
+mark-up
+(%)
+Retail
+mark-up
+(%)
+Acetyl salicyclic
+acid 300mg
+INN generic 3.3 3.7 11.11 12% 200%
+Albendazole
+100mg/5ml susp
+Originator brand 132.75 150 250 13% 67%
+Amoxicillin 250mg
+Originator brand 128.25 141.5 550 10% 289%
+Branded generic 30 34 50 13% 47%
+INN generic 25 27.5 66 10% 140%
+Branded generic 59 66 200 12% 203%
+Branded generic 25 27.5 68.33 10% 148%
+Amoxicillin 500mg Originator brand 319.5 352 550 10% 56%
+Artemeter+ Lum.
+20+120mg
+Originator brand 153.33 168.68 10%
+Azithromycin
+250mg
+Branded generic 1230 1341.67 1750 9% 30%
+Branded generic 483.33 533.33 10%
+Branded generic 233.33 266.67 700 14% 163%
+Branded generic 350 391.67 645.83 12% 65%
+Chloramphenicol
+250mg
+Branded generic 60 67.5 85 12% 26%
+Branded generic 29 30 85 3% 183%
+Branded generic 45 50 90 11% 80%
+Cloxacillin 250mg
+INN generic 59 66 100 12% 52%
+Branded generic 42 47.5 80 13% 68%
+Branded generic 42 47.5 100 13% 111%
+Ciprofloxacin
+500mg
+Branded generic 50 56 12%
+Branded generic 215 236.5 300 10% 27%
+Branded generic 57 63 11%
+Branded generic 693 770 1500 11% 95%
+Branded generic 1260 1400 1900 11% 36%
+Branded generic 48 53 175 10% 230%
+Branded generic 2250 2475 4500 10% 82%
+Diclofenac 50mg
+Branded generic 6.5 7.5 50 15% 567%
+Branded generic 145 160 350 10% 119%
+Branded generic 733.5 800 2000 9% 150%
+Branded generic 40 45 125 13% 178%
+Branded generic 6.7 8 50 19% 525%
+Branded generic 6 7 50 17% 614%
+Doxycycline 100mg
+Branded generic 23 25.5 71.43 11% 180%
+Branded generic 56 62 11%
+Erythromycin
+250mg
+Branded generic 50 56 100 12% 79%
+Branded generic 50 56 100 12% 79%
+Branded generic 50 56 12%
+Branded generic 95 105 200 11% 90%
+Erythromycin
+125mg/5ml susp
+Branded generic 13.5 15 24 11% 60%
+Branded generic 24 27 13%
+Branded generic 15 16.5 24.5 10% 48%
+Branded generic 13.5 15 20 11% 33%
+Fluconazole 150mg
+Branded generic 220 250 850 14% 240%
+INN generic 197 250 27%
+Branded generic 400 450 1000 13% 122%
+Ibuprofen 200mg
+Branded generic 10 11.5 41.67 15% 262%
+Branded generic 8.5 9.5 30 12% 216%
+Branded generic 6 6.75 30 12% 344%
+Paracetamol
+500mg
+Originator brand 57.6 64 100 11% 56%
+Branded generic 11 12.5 14%
+Branded generic 10 11.5 15%
+Branded generic 6.5 7.3 20 12% 174%
+Branded generic 6.3 7 16.67 11% 138%
+Branded generic 8.5 9.5 14.17 12% 49%
+Branded generic 8.5 9.5 22.5 12% 137%
+Branded generic 6 6.75 50 13% 641%
+Paracetamol
+120mg/5ml susp
+Branded generic 9 10 50 11% 400%
+Branded generic 6.5 7.5 13 15% 73%
+Branded generic 8 9 13%
+Branded generic 14 15.5 25 11% 61%
+Branded generic 6 7 10 17% 43%
+Branded generic 7 8 15 14% 88%
+Quinine 300mg
+INN generic 140 160 200 14% 25%
+INN generic 110 125 200 14% 60%
+Salbutamol 4mg
+Branded generic 11 12.5 20 14% 60%
+Branded generic 5 5.6 20 12% 257%
+Sulf+Pyrimeth
+500+25mg
+Branded generic 223.33 250 500 12% 100%
+Sulf+Trimeth
+240mg/5ml susp
+Branded generic 8 9 20 13% 122%
+Branded generic 6.3 7.5 20 19% 167%
+Branded generic 7 8 15 14% 88%
+Sulf+Trimeth
+400+80mg tab
+Branded generic 22 24.5 11%
+Branded generic 20 22.5 50 13% 122%
+Branded generic 17.5 19.5 20 11% 3%
+Branded generic 17.5 19.5 27.5 11% 41%
+Tetracycline 250mg INN generic 20 23 50 15% 117%
+tab/cap unless stated
+II. LOCALLY PRODUCED PRODUCTS
+Medicine Product type Wholesale
+procurement
+price (unit)
+Wholesale
+selling price
+(unit)
+Median
+retail price
+(unit)
+Wholesale
+mark-up
+(%)
+Retail
+mark-up
+(%)
+Azithromycin
+250mg
+Branded generic 250 275 666.67 10% 142%
+Ciprofloxacin
+500mg
+Branded generic 46 53 15%
+Diclofenac 50mg Branded generic 6 7 50 17% 614%
+Erythromycin
+250mg
+Branded generic 53 58.5 91.67 10% 57%
+Branded generic 55 62 13%
+36
+Ibuprofen 200mg Branded generic 9 10 50 11% 400%
+Paracetamol
+500mg
+Branded generic 6.6 7.3 15 11% 105%
+Paracetamol
+120mg/5ml susp
+Branded generic 6.5 7.5 15 15% 100%
+Branded generic 5.75 6.5 15 13% 131%
+Quinine 300mg Branded generic 120 132 200 10% 52%
+Sulf+Pyrimeth
+500+25mg
+Branded generic 113.33 133.33 333.33 18% 150%
+Sulf+Trimeth
+240mg/5ml susp
+Branded generic 6.5 7.5 20 15% 167%
+Tetracycline
+250mg
+Branded generic
+23 26 50 13% 92%
+Zinc sulphate 20mg Branded generic 40 45 100 13% 122%
+tab/cap unless stated
+37
+

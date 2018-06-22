@@ -1,0 +1,440 @@
+SUMMARY SHEET: PRELIMINARY FINDINGS
+TANZANIA HIV IMPACT SURVEY (THIS) 2016-2017
+
+DECEMBER 2017
+
+The Tanzania HIV Impact Survey (THIS), a householdbased national survey, was conducted between October 2016 and August 2017 to measure the status of Tanzania's national HIV response. THIS offered HIV counseling and testing with return of results, and collected information about household and individual characteristics, and uptake of HIV care and treatment services. THIS survey was the first in Tanzania to measure national HIV incidence and viral load suppression. The results provide information on national and sub-national progress toward control of the HIV epidemic.
+THIS was led by the Government of Tanzania under the Ministry of Health, Community Development, Gender, Elderly and Children (MoHCDGEC) and the Ministry of Health (MoH) Zanzibar through the National Bureau of Statistics (NBS) and the Office of Chief Government Statistician (OCGS). The THIS was conducted with funding from the U.S. President's Emergency Plan for AIDS Relief (PEPFAR) and technical assistance through the U.S. Centers for Disease Control and Prevention (CDC) and ICAP at Columbia University.
+The survey was implemented by NBS, OCGS, and ICAP in collaboration with local partners, including the Tanzania Commission for AIDS (TACAIDS), the Zanzibar AIDS Commission (ZAC), the National Health Laboratory - Quality Assurance and Training Center (NHL-QATC), the National AIDS Control Programme (NACP), and the Zanzibar Integrated HIV, Tuberculosis and Leprosy Program (ZIHTLP).
+
+KEY FINDINGS
+
+HIV Indicator
+
+Female
+
+Annual incidence (%) 15­49 years 15-64 years
+
+0.40 0.40
+
+Prevalence Total (%)
+
+15-49 years
+
+6.2
+
+15-64 years
+
+6.5
+
+0-14 years
+
+0.5
+
+Prevalence, Mainland (%)
+
+15-49 years
+
+6.4
+
+15-64 years
+
+6.7
+
+0-14 years
+
+0.5
+
+Prevalence, Zanzibar (%)
+
+15-49 years
+
+*
+
+15-64 years
+
+*
+
+0-14 years
+
+*
+
+Viral Load Suppression (%)
+
+15-64 years
+
+57.5
+
+0-14 years
+
+11.7
+
+95% CI
+0.22-0.58 0.23-0.57
+5.7-6.7 6.0-7.0 0.2-0.8
+5.8-6.9 6.1-7.2 0.2-0.8
+* * *
+54.0-61.1 0.0-23.8
+
+Male
+0.14 0.17
+3.1 3.5 0.3
+3.1 3.6 0.3
+* * *
+41.2 *
+
+95% CI
+0.02-0.26 0.05-0.29
+2.7-3.5 3.1-3.9 0.1-0.5
+2.7-3.6 3.2-4.0 0.1-0.5
+* * *
+35.7-46.7 *
+
+Total 95% CI
+
+0.27 0.29
+
+0.16-0.38 0.18-0.39
+
+4.7
+
+4.3-5.0
+
+5.0
+
+4.7-5.4
+
+0.4
+
+0.2-0.6
+
+4.8
+
+4.4-5.1
+
+5.1
+
+4.8-5.5
+
+0.4
+
+0.2-0.6
+
+0.4
+
+0.1-0.8
+
+0.5
+
+0.1-0.8
+
+0.0
+
+0.0-0.0
+
+52.0 18.4
+
+48.6-55.4 4.6-32.3
+
+Viral load suppression is defined as HIV RNA <1,000 copies per ml of plasma among HIV-positive individuals; incidence measurement based on mean duration of recent infection (MDRI) of 130 days; * male and female specific prevalence estimates for Zanzibar, and male 0-14 year old VLS not shown due to insufficient sample size to obtain a meaningful
+estimate for subcategory.
+1
+
+Annual incidence of HIV among adults ages 15 to 64 years in Tanzania is 0.29 percent (0.40 percent among females and 0.17 percent among males). This corresponds to approximately 81,000 new cases of HIV annually among adults ages 15 to 64 years in Tanzania.
+Prevalence of HIV among adults ages 15 to 64 years in Tanzania is 5.0 percent (6.5 percent among females and 3.5 percent among males). This corresponds to approximately 1.4 million people living with HIV (PLHIV) ages 15 to 64 years in Tanzania.
+Prevalence of viral load suppression (VLS) among HIV-positive adults ages 15 to 64 years in Tanzania is 52.0 percent (57.5 percent among females and 41.2 percent among males).
+
+HIV PREVALENCE, BY AGE AND SEX HIV prevalence peaks at 12 percent among females aged 45 to 49, as compared to a peak of 8.4 percent among males aged 40 to 44. Prevalence among 15 to 24 years old is 1.4 percent (2.1 percent among females and 0.6 percent among males). The disparity in HIV prevalence between males and females is most pronounced among younger adults, with women in age groups 15 to 19, 20 to 24, 25 to 29, 30 to 34 and 35 to 39 all having prevalence more than double that of males in the same age groups.
+Error bars represent 95% confidence intervals.
+HIV PREVALENCE AMONG ADULTS, BY REGION Among adults 15 years and older, HIV prevalence among adults varies geographically across Tanzania, ranging from 11.4 percent in Njombe to less than one percent (<1%) in Lindi and Zanzibar.
+* Indicates zero cases
+2
+
+Region
+
+HIV Prevalence
+
+Dodoma
+
+5.0
+
+Arusha
+
+1.9
+
+Kilimanjaro
+
+2.6
+
+Tanga
+
+5.0
+
+Morogoro
+
+4.2
+
+Pwani
+
+5.5
+
+Dar es Salaam
+
+4.7
+
+Lindi
+
+0.3
+
+Mtwara
+
+2.0
+
+Ruvuma
+
+5.6
+
+Iringa
+
+11.3
+
+Mbeya
+
+9.3
+
+Singida
+
+3.6
+
+Tabora
+
+5.1
+
+Rukwa
+
+4.4
+
+Kigoma
+
+2.9
+
+Shinyanga
+
+5.9
+
+Kagera
+
+6.5
+
+Mwanza
+
+7.2
+
+Mara
+
+3.6
+
+Manyara
+
+2.3
+
+Njombe
+
+11.4
+
+Katavi
+
+5.9
+
+Simiyu
+
+3.9
+
+Geita
+
+5.0
+
+Songwe
+
+5.8
+
+Kaskazini Unguja
+
+0.6
+
+Kusini Unguja
+
+0.0
+
+Mjini Magharibi
+
+0.6
+
+Kaskazini Pemba
+
+0.0
+
+Kusini Pemba
+
+0.3
+
+95% CI
+2.6-7.5 0.6-3.3 1.7-3.4 3.2-6.7 3.0-5.3 4.3-6.8 3.7-5.6 0.0-0.8 0.0-4.2 4.4-6.7 9.0-13.6 7.4-11.2 0.6-6.5 4.2-6.0 3.4-5.4 1.6-4.3 5.3-6.5 4.1-8.8 4.9-9.4 2.5-4.7 1.1-3.5 7.5-15.3 4.3-7.5 2.3-5.6 3.0-7.0 3.5-8.1 0.0-1.8 0.0-0.0 0.1-1.1 0.0-0.0 0.0-0.9
+
+VIRAL LOAD SUPPRESSION AMONG PEOPLE LIVING WITH HIV, BY AGE
+Viral load suppression among HIV positive individuals in Tanzania is highest among older adults, with 64.4 percent of females ages 55 to 64 virally suppressed, and 61.5 percent of males ages 55 to 64 virally suppressed. Gender disparity in viral load suppression is greater among younger adults, with 50.5 percent of females ages 25 to 34 virally suppressed and 25.7 percent of men in the same age group virally suppressed.
+
+Error bars represent 95% confidence intervals.
+VIRAL LOAD SUPPRESSION AMONG PEOPLE LIVING WITH HIV, AGED 15+
+
+Among HIV positive adults 15 years and older, VLS varies geographically across Tanzania, ranging from 66.0 percent in Kagera and 66.8 percent in Kilimanjaro to 40.1 percent in Shinyanga and 29.1 percent in Arusha.
+ Indicates estimates based on 25-49 cases
+ Indicates estimates with a denominator less than 25 cases
+* Indicates zero cases
+
+Region
+
+VLS Prevalence
+
+Dodoma Arusha Kilimanjaro Tanga Morogoro Pwani Dar es Salaam Lindi Mtwara Ruvuma Iringa Mbeya Singida Tabora Rukwa Kigoma Shinyanga Kagera Mwanza Mara Manyara Njombe Katavi Simiyu Geita Songwe Kaskazini Unguja Kusini Unguja Mjini Magharibi Kaskazini Pemba Kusini Pemba
+
+60.6 29.1 66.8 47.2 45.3 63.5 44.7 100.0 53.3 56.7 56.6 57.4 40.4 41.2 42.9 58.4 40.1 66.0 49.6 63.4 36.6 60.5 47.3 54.3 32.4 64.6 44.5 * 21.0 * 0
+
+95% CI
+35.7-85.5 4.1-54.0 46.8-86.8 37.4-57.0 23.9-66.6 53.9-73.0 36.7-52.7 100.0-100.0 43.8-62.8 45.8-67.5 49.0-64.2 47.6-67.1 0.0-83.1 30.6-51.7 31.5-54.2 36.1-80.6 30.1-50.1 53.4-78.5 39.2-60.0 51.4-75.4 9.7-63.5 46.6-74.4 38.3-56.4 28.2-80.4 21.3-43.6 52.6-76.7 42.3-46.7 * 0.0-65.9 * 0.0-0.0
+
+3
+
+ACHIEVEMENT OF THE 90-90-90 GOALS AMONG PEOPLE LIVING WITH HIV
+
+90­90­90: an ambitious treatment target to help end the AIDS epidemic By 2020, 90 percent of all PLHIV will know their HIV status; 90 percent of all people with diagnosed HIV infection will receive sustained antiretroviral therapy (ART); and 90 percent of all people receiving ART will have viral suppression.
+
+Diagnosed In Tanzania, 52.2 percent of PLHIV ages 15 to 64 years (55.9 percent of HIV-positive females and 45.3 percent of HIVpositive males) know their HIV positive status.
+
+On Treatment Among PLHIV ages 15 to 64 years who know their HIV status, 90.9 percent (92.9 percent of HIV-positive females and 86.1 percent of HIV-positive males) self-report current use of ART.
+
+Virally Suppressed Among PLHIV ages 15 to 64 years who self-report current use of ART, 87.7 percent (89.2 percent of HIV-positive females and 84.0 percent of HIV-positive males) are virally suppressed.
+
+Error bars represent 95% confidence intervals.
+*Inset numbers are conditional proportions. See text above.
+
+4
+
+PREVALENCE OF HEPATITIS B, BY SEX, AGE, AND HIV STATUS
+
+THIS also tested a subset of participants for hepatitis to get a national estimate of chronic active hepatitis B prevalence. Among adults ages 15-64, prevalence of active hepatitis B infection is similar among HIV positive and HIV negative individuals. Although the estimate for HIV positive individuals (5.2 percent) is slightly higher compared with HIV negative individuals (3.6 percent), the estimates are not statistically different. These are the first national estimates of hepatitis B in Tanzania and will be foundational for developing the national hepatitis response.
+
+HIV Status and Age
+HIV Positive 15-49 years 15-64 years
+HIV Negative 15-49 years 15-64 years
+Total 15-49 years 15-64 years
+
+Females
+
+HBV Prevalence
+
+95% Cl
+
+0**
+
+0**
+
+0**
+
+0**
+
+3.9
+
+1.7-6.1
+
+3.6
+
+1.6-5.6*
+
+3.7
+
+1.6-5.8
+
+3.7
+
+1.5-5.2
+
+Males
+
+HBV Prevalence
+
+95% Cl
+
+*
+
+*
+
+*
+
+*
+
+4.0
+
+1.1-7.0
+
+3.6
+
+1.0-6.1
+
+4.3
+
+1.4-7.2
+
+4.0
+
+1.5-6.5
+
+Total
+
+HBV Prevalence
+
+95% Cl Prevalence
+
+4.3
+
+0-11.3
+
+5.2
+
+1.8-8.6
+
+4.0
+
+2.2-5.8
+
+3.6
+
+2.0-5.2
+
+4.0
+
+2.3-5.8
+
+3.7
+
+2.1-5.2
+
+* Suppressed due to denominator of fewer than 25 cases ** warning, denominator of 25-49 cases; tests conducted on representative subsample of 1,052 adults 15-49 years, 1,210 adults of age 15-64 years
+
+CONCLUSIONS
+
+· HIV prevalence and incidence estimates from THIS indicate a stabilizing HIV epidemic in Tanzania.
+· Tanzania has made considerable progress towards the 90-90-90 goals, particularly in linkage to and retention in HIV treatment as demonstrated by the 2nd and 3rd 90 targets (91 and 88 percent, respectively).
+· The goal of ending the AIDS epidemic in Tanzania by 2030 is attainable through improvement in targeted HIV testing, in men and women.
+
+RESPONSE RATES AND HIV TESTING METHODS
+Of 15,504 eligible households, 14,811 (95 percent) completed a household interview. Of 19,852 eligible women and 16,235 eligible men ages 15 years and older, 90 percent of women and 85 percent of men were interviewed and tested for HIV. Of 10,452 eligible children ages 0 to 14 years, 92 percent were tested for HIV. A representative subsample of 1,310 adults ages 15 years and older were tested for hepatitis B.
+HIV prevalence testing was conducted in each household using a serological rapid diagnostic testing algorithm based on Tanzania's national guidelines, with laboratory confirmation of seropositive samples using the BioRad Geenius HIV-1/HIV-2 supplemental assay. Viral load testing was conducted on all positive samples. A laboratory-based incidence testing algorithm (HIV-1 Limiting Antigen (LAg) avidity plus viral load) was used to distinguish recent from long-term infection, and incidence estimates were obtained using the CDC Incidence Calculator, which uses the formula recommended by the WHO Incidence Working Group and Consortium for Evaluation and Performance of Incidence Assays, with time cutoff (T)=1.0 year and residual proportion false recent (PFR)=0.00. Survey weights are utilized for all estimates.
+
+5
+
+Tanzania HIV Impact Survey (THIS) is part of the Population Based HIV Impact Assessment (PHIA) Project which is a multi-country project funded by PEPFAR to conduct national HIV-focused surveys that describe the status of the HIV epidemic. Results will measure important national and regional HIV-related parameters, including progress toward 90-90-90 goals, and will guide policy and funding priorities. ICAP at Columbia University is implementing the PHIA Project in close collaboration with CDC and other partners. See phia.icap.columbia.edu for more details.
+The mark "CDC" is owned by the US Dept. of Health and Human Services and is used with permission. Use of this logo is not an endorsement by HHS or CDC of any particular product, service, or enterprise. This project is supported by the U.S. President's Emergency Plan for AIDS Relief (PEPFAR) through CDC under the terms of cooperative agreement #U2GGH001226. The findings and conclusions in this report are those of the authors and do not necessarily represent the official position of the funding agencies. The results presented should be considered preliminary and they are subject to change.
+6
+
+
