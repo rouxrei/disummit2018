@@ -1,1 +1,1 @@
-python -m nltk.downloader averaged_perceptron_tagger maxent_ne_chunker punkt wordnet words
+python -m nltk.downloader averaged_perceptron_tagger maxent_ne_chunker punkt wordnet words stopwords
